@@ -45,8 +45,8 @@ While building this project, I deeply understood how real-world problems are mod
 ## 📂 Project Structure
 
 src/
-├── Employee.java          // Abstract base class
-├── FullTimeEmployee.java  // Subclass with monthly salary logic
+├── Employee.java          // Abstract base class \n
+├── FullTimeEmployee.java  // Subclass with monthly salary logic \n
 ├── PartTimeEmployee.java  // Subclass with hourly logic
 ├── PayrollSystem.java     // Manages employee list
 └── Main.java              // Entry point

@@ -44,6 +44,7 @@ While building this project, I deeply understood how real-world problems are mod
 
 ## 📂 Project Structure
 
+`
 src/
 |
 ├── Employee.java          // Abstract base class
@@ -55,3 +56,4 @@ src/
 ├── PayrollSystem.java     // Manages employee list
 |
 └── Main.java              // Entry point
+`
